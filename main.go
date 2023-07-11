@@ -12,4 +12,4 @@ func main (){
 
   fmt.Println(solve2.Solution([]int{2,3,1}))
   fmt.Println(solve2.Solution([]int{5,10,14}))
-}
+} 
